@@ -1,4 +1,6 @@
 # Salesmen-Analysis
+Click on code and download the project as zip file
+
 Performance of Salesmen in the company is analyzed in the report by using POWER BI.
 
 Find the Power Bi file in the repository, if you dont want to work on the power BI file then you can also check the jpg images of the report in same folder. 
